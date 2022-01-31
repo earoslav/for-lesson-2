@@ -1,0 +1,76 @@
+body {
+    font-family: sans-serif;
+}
+header img {
+    width: 680px;
+    height: 60px;
+    left: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+.first {
+    margin: 0px 30px 40px 60px  ;
+    text-decoration: none;
+    border-bottom: 7px solid black;
+    font-size: 20px;
+    color: black;
+}
+.second {
+    margin: 110px;
+    text-decoration: none;
+    border-bottom: 7px solid black;
+    font-size: 20px;
+    color: black;
+}
+.three {
+    text-decoration: none;
+    border-bottom: 7px solid black;
+    font-size: 20px;
+    color: black;
+} 
+nav {
+    margin-top: 20px;
+}
+h1 {
+    text-align: center;
+}
+.four {
+    width: 200px;
+    height: 150px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-left: 10px dotted black;
+    padding: 5px;
+}
+.five {
+    margin-left:50px;
+    width: 200px;
+    height: 150px;
+    border-left: 10px dotted black;
+    padding: 5px;
+}
+.six {
+     margin-left: 50px;
+     border-left: 10px dotted black;
+     padding: 5px;
+}
+footer {
+    background-color: black;
+    padding: 10px;
+}
+.nine {
+    background-color: white; 
+    margin: 5px 30px 10px 20px;
+    padding: 5px;
+}
+.ten {
+     background-color: white;
+     margin: 5px 30px 10px 20px;
+     padding: 5px 10px 5px 5px;
+}
+.eleven {
+    margin: 60px 45px 40px 45px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 5px solid black;
+}
